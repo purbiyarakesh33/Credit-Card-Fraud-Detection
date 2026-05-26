@@ -1,11 +1,9 @@
+
 streamlit
-requests
 pandas
-kagglehub
 numpy
 tensorflow
 xgboost
 scikit-learn
 imbalanced-learn
-fastapi
-uvicorn
+kagglehub
