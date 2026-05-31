@@ -120,7 +120,7 @@ streamlit run frontend.py
 
 
 
-**LinkedIn:** [Add your LinkedIn URL here]  
-**Live Demo:** [Add your Streamlit deployment link here]
+**LinkedIn:** [https://www.linkedin.com/in/rakesh-purbiya-0b7091317/]  
+**Live Demo:** [https://huggingface.co/spaces/rakesh9773/credit-card-fraud-detection]
 
 ---
